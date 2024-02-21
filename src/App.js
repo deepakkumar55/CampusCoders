@@ -7,11 +7,11 @@ function App(){
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
         <p className='raaj'>
-          Hey Raaj aaj kuch naya karte hai naa
+          Hey Raaj aaj kuch naya karte hai  naa
         </p>
       </header>
     </div>
   )
 }
 
-export default App;
+export default App; 
